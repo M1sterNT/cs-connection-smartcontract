@@ -1,0 +1,17 @@
+{
+  "name": "cs-connection",
+  "version": "1.0.0",
+  "description": "cs-connection smart contract",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "web3": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MisterNT",
+  "license": "ISC"
+}
