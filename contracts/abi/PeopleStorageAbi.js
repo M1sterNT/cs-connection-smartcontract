@@ -1,4 +1,4 @@
-const PeopleStorateAbi = 
+const PeopleStorageAbi = 
 [
 	{
 		"constant": false,
@@ -72,4 +72,4 @@ const PeopleStorateAbi =
 	}
 ]
 
-module.exports  = PeopleStorateAbi;
+module.exports  = PeopleStorageAbi;
